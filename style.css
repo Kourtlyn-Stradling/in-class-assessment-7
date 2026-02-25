@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  font-color: peru;
+  font-color: saddlebrown;
 }
 
 img {
@@ -25,6 +25,26 @@ img {
   font-color: seagreen;
   font-style: light;
   text-align: center;
+}
+
+a:link {
+  color: seagreen;
+}
+
+a:visited {
+  color: saddlebrown; 
+}
+
+a:hover {
+  color: mediumseagreen;
+}
+
+a:active {
+  color: orange;
+}
+
+footer a:hover {
+  text-decoration: none;
 }
 
 
