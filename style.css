@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Open-sans;
+  font-family: helvetica;
   color: #333;
 }
 
@@ -18,7 +18,16 @@ h2 {
 img {
   width: 100%;
   height: auto;
+  align: center;
 }
+
+.caption {
+  font-color: seagreen;
+  font-style: light;
+  text-align: center;
+}
+
+
 
 
 
